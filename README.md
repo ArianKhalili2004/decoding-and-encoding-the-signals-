@@ -1,1 +1,2 @@
 # decoding-and-encoding-the-signals-
+this project is for encoding the random binary number you gave to it and then you choose which encoding type you want to progress with like nrz,manchester and etc and then you can what the signal you ask for in gui form and then you have another output in terminal that is the edge of signal in each period and if you gave it to the decoder code you have the output of the main signal that you gave as the input in first part for more explanation check the power point file
